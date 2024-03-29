@@ -1,0 +1,10 @@
+.\objects\dh11.o: ..\HARDWARE\DH11\dh11.c
+.\objects\dh11.o: ..\SYSTEM\sys\sys.h
+.\objects\dh11.o: ..\SYSTEM\sys\stm32f10x.h
+.\objects\dh11.o: ..\SYSTEM\sys\core_cm3.h
+.\objects\dh11.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dh11.o: ..\SYSTEM\sys\system_stm32f10x.h
+.\objects\dh11.o: ..\HARDWARE\DH11\dh11.h
+.\objects\dh11.o: ..\SYSTEM\delay\delay.h
+.\objects\dh11.o: ..\OBJ\overall.h
+.\objects\dh11.o: ..\SYSTEM\delay\delay.h

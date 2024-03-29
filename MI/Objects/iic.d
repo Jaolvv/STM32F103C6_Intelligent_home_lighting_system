@@ -1,0 +1,10 @@
+.\objects\iic.o: ..\HARDWARE\ccs811\IIC.c
+.\objects\iic.o: ..\HARDWARE\ccs811\IIC.h
+.\objects\iic.o: ..\SYSTEM\sys\stm32f10x.h
+.\objects\iic.o: ..\SYSTEM\sys\core_cm3.h
+.\objects\iic.o: D:\stm32mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\iic.o: ..\SYSTEM\sys\system_stm32f10x.h
+.\objects\iic.o: ..\SYSTEM\delay\delay.h
+.\objects\iic.o: ..\OBJ\overall.h
+.\objects\iic.o: ..\SYSTEM\sys\sys.h
+.\objects\iic.o: ..\SYSTEM\delay\delay.h

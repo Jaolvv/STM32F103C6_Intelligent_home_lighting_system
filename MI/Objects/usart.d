@@ -1,0 +1,9 @@
+.\objects\usart.o: ..\HARDWARE\USART\usart.c
+.\objects\usart.o: ..\HARDWARE\USART\usart.h
+.\objects\usart.o: ..\SYSTEM\sys\sys.h
+.\objects\usart.o: ..\SYSTEM\sys\stm32f10x.h
+.\objects\usart.o: ..\SYSTEM\sys\core_cm3.h
+.\objects\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart.o: ..\SYSTEM\sys\system_stm32f10x.h
+.\objects\usart.o: ..\HARDWARE\LED\led.h
+.\objects\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

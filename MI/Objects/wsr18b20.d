@@ -1,0 +1,11 @@
+.\objects\wsr18b20.o: ..\HARDWARE\WSR18B20\wsr18b20.c
+.\objects\wsr18b20.o: ..\HARDWARE\WSR18B20\wsr18b20.h
+.\objects\wsr18b20.o: ..\HARDWARE\1602\1602.h
+.\objects\wsr18b20.o: ..\SYSTEM\sys\sys.h
+.\objects\wsr18b20.o: ..\SYSTEM\sys\stm32f10x.h
+.\objects\wsr18b20.o: ..\SYSTEM\sys\core_cm3.h
+.\objects\wsr18b20.o: C:\stm32kell\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\wsr18b20.o: ..\SYSTEM\sys\system_stm32f10x.h
+.\objects\wsr18b20.o: ..\SYSTEM\delay\delay.h
+.\objects\wsr18b20.o: ..\OBJ\overall.h
+.\objects\wsr18b20.o: ..\SYSTEM\delay\delay.h
